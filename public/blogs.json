@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/wCbmnrT/blog1.jpg",
+        "coupleName": "VENUE SPOTLIGHT",
+        "place":"Tin Roof Barn",
+        "description": "Nestled in the picturesque town of White Salmon, WA Tin Roof Barn stands as a perfect blend of rustic charm and Pacific Northwest beauty. Surrounded by the stunning landscapes of the Columbia River Gorge, this venue is a fan favorite of our couples seeking a unique and enchanting setting for their special day. ",
+        "date": "January 15,2023",
+        "memories":[
+           "https://i.ibb.co/XV7K1Cb/memo1.jpg",
+           "https://i.ibb.co/R0dWdJX/memo2.jpg",
+           "https://i.ibb.co/f29zbqd/memo3.jpg",
+           "https://i.ibb.co/8xnbH4x/memo4.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/vcwVSZD/blog2.jpg",
+        "coupleName": "KRISTEN + CLAUDIO",
+        "place":"Alderbrook Resort & Spa",
+        "description": "This wedding was a long time in the making as Covid took over their original wedding date. But oh my, was this worth the wait! Plus this wedding was a little more near and dear to me as this it was for a family friend. It’s always an amazing thing when family, friends, and work can collide. ",
+        "date": "February 10,2023",
+        "memories":[
+            "https://i.ibb.co/GWhfhnK/memo1.jpg",
+            "https://i.ibb.co/0DdKnfj/memo2.jpg",
+            "https://i.ibb.co/pPk95qt/memo3.jpg",
+            "https://i.ibb.co/NrzcKww/memo4.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/TtFfMfx/blog7.jpg",
+        "place":"The Evergreen",
+        "coupleName": "KEATS + ANSHUL",
+        "description": "Weddings are made memorable when a couple’s personality can be revealed through the details of their big day. Keats and Anshul accomplished this in the most authentic and stylish way. They had a vision from the start, and it was so fun to help them put the pieces together to create an unforgettable experience for their family and friends at The Evergreen in downtown Portland. To quote one of their guests, “you could see their fingerprint on every element of the entire event”; from the mix of dried and fresh florals, to the light and dark earth tones of the dinnerware, from their signature drinks, to the outfit changes, to disco balls EVERYWHERE.",
+        "date": "April 20,2022",
+        "memories":[
+            "https://i.ibb.co/Jnsgb2V/memo1.jpg",
+            "https://i.ibb.co/3mLcm0F/memo2.jpg",
+            "https://i.ibb.co/68GB4NS/memo3.jpg",
+            "https://i.ibb.co/dDLgs1w/memo4.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/Tt38s3d/blog4.jpg",
+        "place":"Tetherow",
+        "coupleName": "LAUREN + SAM",
+        "description": "Lauren and Sam chose to have their rustic elegant winter wedding at Tetherow  Resort.  Much of their relationship was spent skiing the slopes of different mountains, so it was very fitting they chose a location that is only 15 minutes from the bottom of Mt. Bachelor.   They made it a full weekend with a BBQ food truck welcome reception and hosting a brunch at one of the rental homes the day after the wedding.   With the close proximity to Bend, the couple made sure to let everyone know the",
+        "date": "May 05,2023",
+        "memories":[
+            "https://i.ibb.co/phLyYJq/memo1.jpg",
+            "https://i.ibb.co/r4wvwHX/memo2.jpg",
+            "https://i.ibb.co/zZSk7Dm/memo3.jpg",
+            "https://i.ibb.co/Wpzv8mm/memo4.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/nnBDTGs/blog8.jpg",
+        "place":"JM Cellars",
+        "coupleName": "ASHLEY + MATTHEW",
+        "description": "Ashley and Matthew are an incredible couple, very compatible and great fun to be around! JM Cellars was a perfectly suited venue for them and couldn’t have been a more beautiful backdrop with all of the fall colors.",
+        "date": "June 05,2021",
+        "memories":[
+            "https://i.ibb.co/vJgmgLv/memo1.jpg",
+            "https://i.ibb.co/c1NWwRc/memo2.jpg",
+            "https://i.ibb.co/cr5Dyj8/memo3.jpg",
+            "https://i.ibb.co/j37P0hc/memo4.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/mBYNkMq/blog6.jpg",
+        "place":"Bridal Bliss",
+        "coupleName": "WEDDING PARTY ATTIRE 101",
+        "description": "Are you gearing up for a fabulous wedding celebration but struggling to find the perfect outfit for the occasion? Whether you're playing the role of bridesmaid, groomsmen, parent, or even guest we've got you covered with some fantastic tips to ensure you look effortlessly chic on the big day:",
+        "date": "September 06,2023",
+        "memories":[
+            "https://i.ibb.co/7nmFTkn/memo1.jpg",
+            "https://i.ibb.co/1d410cH/memo2.jpg",
+            "https://i.ibb.co/VDxcTf4/memo3.jpg",
+            "https://i.ibb.co/QdKr4VJ/memo4.jpg"
+        ]
+    }
+]

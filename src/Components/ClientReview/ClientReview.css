@@ -1,0 +1,47 @@
+
+  .client-slider {
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    height: 300px;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  .slider1{
+    background-color:rgb(0, 140, 255) ;
+  }
+  
+.slider2{
+    background-color:  rgb(212, 25, 25);
+  }
+  
+.slider3{
+    background-color: rgb(10, 184, 111);
+  }
+  
+.slider4 {
+    background-color: rgb(211, 122, 7);
+  }
+  
+.slider5 {
+    background-color: rgb(118, 163, 12);
+  }
+  
+.slider6 {
+    background-color: rgb(180, 10, 47);
+  }
+  
+.slider7 {
+    background-color: rgb(35, 99, 19);
+  }
+  
+.slider8 {
+    background-color: rgb(0, 68, 255);
+  }
+  
+.slider9 {
+    background-color: rgb(218, 12, 218);
+  }
+  

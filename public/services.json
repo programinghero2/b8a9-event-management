@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "name": "venue selection",
+      "img": "https://i.ibb.co/cYmNRx7/venue.jpg",
+      "price": 1200,
+      "description": 
+      "we Start by understanding the specific requirements of your event.example the type of event, the number of attendees, the date and time,bugets and any special preferences or themes.Venue selection can be a time-consuming process. we handling this task for our client.our Experienced event planners understand the potential challenges and risks associated with different venues. They do help clients make informed decisions to minimize the likelihood of issues arising during the event.Our event planners are tailored based on the client's requirements and budget Selects the venue."
+    },
+    {
+      "id": 2,
+      "name": "Desing and Decor ",
+      "img": "https://i.ibb.co/cKqrGp6/decoration.jpg",
+      "price": 1500,
+      "description": 
+      "With our Partial Wedding Planning Package, we act as your support system. Service begins right away and we secure your date up to 18 months out. You'll be given a detailed wedding planning timeline and budget spreadsheet. We hold you accountable for tasks and help you set the overall budget. Using our spreadsheets, you can monitor your payments and progress.Piper & Muse will hand-pick all vendor recommendations, based on your unique wedding style and budget, and help set meetings, review contracts and get them booked. We also happily answer any and all etiquette questions throughout it all. Wedding Day Coordination included.  If these services sound useful, the next step is to contact us here for availability and pricing."
+    },
+    {
+      "id": 3,
+      "name": "Wedding planning",
+      "img": "https://i.ibb.co/wrXYNjM/planning.jpg",
+      "price": 1780,
+      "description": 
+      "With our Full Wedding Package, we hold your hand through each and every detail — you simply show up and enjoy. Service begins right away and we we secure your date up to 18 months out. Creative wedding ideas, design advice and color palette inspiration are all included in our Full Wedding Planning Package.We update and maintain your wedding planning timeline, budget, and even send you payment reminders. Along with hand-picked wedding vendor recommendations, we attend each vendor meeting with you and help make each detailed decision throughout the wedding planning process. Wedding Day Coordination included.  If you need a wedding planner for your wedding, contact us here to reserve your date."
+    },
+    {
+      "id": 4,
+      "name": "Food and Beverage",
+      "img": "https://i.ibb.co/cbVsP2w/food-Beverage.jpg",
+      "price": 1350,
+      "description": "Our carefully crafted menu features a blend of exquisite flavors and diverse cuisines to cater to all tastes and dietary preferences. From mouthwatering appetizers to delectable main courses and delightful desserts, our menu promises to be a culinary journey like no other. Vegetarian, vegan, and gluten-free options are also available to ensure everyone's satisfaction.Raise a toast to love and happiness with our carefully curated beverage selection. From signature cocktails to a full bar with premium spirits, wine, and beer, we have your drink preferences covered. Our non-alcoholic options are equally enticing, ensuring that everyone can join in the celebration.End your meal on a sweet note with our dessert extravaganza. From decadent wedding cakes to an array of sweet treats, your dessert table will be a feast for the eyes and the palate.Keep the energy going with late-night snacks for your guests. Whether it's a gourmet popcorn bar or mini sliders, our late-night options will satisfy those midnight cravings.Looking for the perfect wine to complement your meal or the ideal cocktail to match your wedding theme? Our experienced staff can assist with food and drink pairings to enhance your dining experience."
+    },
+    {
+      "id": 5,
+      "name": "Entertainment",
+      "img": "https://i.ibb.co/DWx3c6w/Entertainment.webp",
+      "price": 1470,
+      "description": "Get ready to tap your feet and dance the night away with live musical performances by talented artists. Our handpicked musicians will serenade you with enchanting melodies during the ceremony, set the mood during cocktail hour, and keep the party going well into the night with lively tunes.For those who love to dance, our DJ will be spinning the latest hits and your favorite classics. Our dance floor is ready for you to groove, so put on your dancing shoes and join us for an unforgettable dance party.Capture candid and hilarious moments with our interactive photobooth. It's a great way to create lasting memories with your loved ones. Pose, smile, and take home personalized photo keepsakes as mementos of our special day.Share your well wishes, advice, and memories with us in our interactive digital guestbook. Leave text messages, photos, and videos to become a part of our cherished wedding memories."
+    },
+    {
+      "id": 6,
+      "name": "wedding day coordination",
+      "img": "https://i.ibb.co/7CLvfdw/coordinator.jpg",
+      "price": 1660,
+      "description": 
+      "A Wedding Day Coordinator is a necessity so that everyone but most importantly you can relax and enjoy the most precious moments you've been working toward. Also known as Month-Of Coordination, this service begins 6 weeks prior to your wedding date and is available to secure your date 4 months in advance. At the 4-month mark (or as soon as you book), we can give you vendor recommendations for anything you've not secured yet. With our check list in-hand, you'll be ready to complete your final tasks. We'll re-group for a Detail Planning Meeting, where we put together your wedding timeline, ceremony logistics and more. In the final month, we fully take over vendor communication and tie up all loose ends. We then conduct your rehearsal and wedding day from start to finish, Emergency Kit in hand.  Contact us here if you haven't reserved your Day-Of Coordinator.  "
+    }
+  ]
+  
